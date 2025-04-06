@@ -1,3 +1,3 @@
 # DTS_Tutorial_AspDotNetCore
 
-#upgrade to the latest version of DTS_Tutorial_AspDotNet Core to 5.0.
+# Upgrade to the latest version of DTS_Tutorial_AspDotNet Core to 5.0.
